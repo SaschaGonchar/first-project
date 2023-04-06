@@ -1,6 +1,6 @@
 //класс
-//public class userNew{
-//}
+public class userNew{
+}
 
 //метод майн
 public static void main() { 
